@@ -8,16 +8,18 @@ function About() {
             <p className="text-4xl font-bold inline border-b-4 border-gray-500">About</p>
         </div>
         <p className="text-xl mt-20">
-        Hello, aspiring learners &#128075; ! I'm Ankit Chauhan, and I'm thrilled to welcome you to my YouTube coaching platform. Currently in my first year of MSc, I've recently completed my BSc in Science(chemistry). My passion for teaching and sharing knowledge has led me to create this space where we can embark on a journey of learning and growth together.
+        Hello there! &#128075; I'm Aakash Yadav, a passionate final-year B.Tech student majoring in Computer science and engineering with a keen interest in web development. I am on the verge of completing my degree and ready to embark on an exciting journey in the tech industry.
         </p>
         <br />
-        <p className="text-xl">I believe that education should be an empowering and enjoyable experience. My teaching philosophy revolves around creating an engaging and supportive learning environment. Whether you're new to [Your Subject] or seeking advanced insights, my goal is to make complex topics accessible and interesting.
+        <p className="text-xl">My fascination with technology ignited during my early college days, leading me to dive deep into the world of web development. Through coursework, personal projects, and internships, I've acquired a solid foundation in front-end and back-end technologies, including:
         </p>
         <br />
-        <p className="text-xl">In my coaching sessions, you can expect a blend of theoretical foundations, practical applications, and interactive discussions. I am committed to simplifying challenging concepts and providing you with the tools to succeed in your academic journey. Each session is crafted to help you not only understand the material but also to inspire a genuine interest in the subject.
-        </p>
-        <br />
-        
+        <ul>
+            <li><strong className="text-xl ">Front-end :</strong> HTML, CSS, JavaScript (ReactJS)</li>
+            <li><strong className="text-xl">Back-end :</strong> Node.js, Express.js, MongoDB</li>
+            <li><strong className="text-xl">Version Control :</strong> Git, GitHub</li>
+        </ul>
+
 
       </div>
     </div>

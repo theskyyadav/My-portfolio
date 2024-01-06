@@ -1,6 +1,5 @@
 import React from 'react'
-import { FaInstagram,FaTwitter } from "react-icons/fa";
-
+import { FaGithub,FaLinkedin } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 
 
@@ -11,20 +10,20 @@ const Sociallinks = () => {
       id: 1,
       child : (
         <>
-         Instagram<FaInstagram size={30} />
+         LinkedIn<FaLinkedin size={30} />
          </>
          ),
-      href : "https://www.instagram.com/ankit_chauhan1018?igsh=ZWI2YzEzYmMxYg==",
+      href : "www.linkedin.com/in/aakash-yadav-368b02203",
       style : 'rounded-tr-md'   
     },
     {
       id: 2,
       child : (
         <>
-         Twitter<FaTwitter size={30} />
+         GitHub<FaGithub size={30} />
          </>
          ),
-      href : "https://twitter.com/i/flow/login",
+      href : "https://github.com/theskyyadav",
      
     },
     {
@@ -34,7 +33,7 @@ const Sociallinks = () => {
          Gmail<HiOutlineMail size={30} />
          </>
          ),
-      href : "mailto:chauhan0990ankit@gmail.com",   
+      href : "mailto:aakashyadav0726@gmail.com",   
     },
   ];
   return (
