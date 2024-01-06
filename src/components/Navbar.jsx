@@ -14,7 +14,7 @@ const Navbar = () => {
         },
         {
             id: 3,
-            link: 'portfolio',
+            link: 'courses',
         },
         {
             id: 4,
@@ -26,10 +26,10 @@ const Navbar = () => {
         },
     ];
   return (
-    <div className="flex justify-between items-center w-full h-20 px-4 text-white bg-black fixed">
+    <div className="flex justify-between items-center w-full h-20 px-4 text-white bg-black ">
         <div>
             <h1 className="text-5xl font-name ml-2 
-            ">Aakash</h1>
+            ">Deep Learning with Ankit</h1>
         </div>
         <ul className='hidden md:flex'>
             {links.map(({id, link}) => (
