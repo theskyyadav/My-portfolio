@@ -16,7 +16,7 @@ function Contact() {
             <p className='py-6'>Submit the form below to get in touch with me</p>
         </div>
         <div className="flex justify-center">
-            <form action="https://getform.io/f/063ad779-7ce6-4520-b388-5a352227cf72" method="POST" className="flex flex-col">
+            <form action="https://getform.io/f/72efdf4d-ea1e-4244-8b2b-4c88129905ef" method="POST" className="flex flex-col">
                <input type="text"
                name="name"
                placeholder="Enter your name"
